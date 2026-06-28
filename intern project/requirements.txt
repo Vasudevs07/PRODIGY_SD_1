@@ -1,0 +1,20 @@
+# Contact Management System – Requirements
+# All packages below are part of the Python standard library.
+# No third-party installation is needed.
+#
+# Python >= 3.10 is required (uses union type hints: dict | None)
+#
+# Standard library modules used:
+#   tkinter   – GUI framework
+#   json      – contacts storage
+#   os        – file existence checks
+#   re        – input validation (regex)
+#   shutil    – automatic JSON backup
+#   uuid      – unique contact ID generation
+#   datetime  – timestamping contacts
+#
+# To verify your Python version:
+#   python --version
+#
+# To run the app:
+#   python main.py
