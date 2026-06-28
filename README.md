@@ -1,4 +1,4 @@
-# 📋 Contact Management System
+#  Contact Management System
 
 > **Prodigy Infotech Internship — Software Development Track | Task 03**
 > Repository: `PRODIGY_SD_03`
@@ -26,7 +26,7 @@ A professional desktop application to **add, view, search, edit, and delete cont
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 PRODIGY_SD_03/
@@ -70,7 +70,7 @@ python main.py
 
 ---
 
-## 🖥 Usage
+##  Usage
 
 | Action | How |
 |---|---|
@@ -93,7 +93,7 @@ python main.py
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 The code follows a clean **two-layer OOP architecture**:
 
@@ -111,7 +111,7 @@ App  (tkinter.Tk)
 
 ---
 
-## 🔒 Data & Backup
+##  Data & Backup
 
 - Contacts are stored in `contacts.json` (human-readable JSON).
 - Before every write, the current file is automatically copied to `contacts_backup.json`.
@@ -119,7 +119,7 @@ App  (tkinter.Tk)
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - **Python 3.10+**
 - **Tkinter** — built-in GUI framework
@@ -128,7 +128,7 @@ App  (tkinter.Tk)
 
 ---
 
-## 📄 License
+##  License
 
 This project is submitted as part of the **Prodigy Infotech Software Development Internship**.
 Free to use for educational purposes.
@@ -139,5 +139,5 @@ Free to use for educational purposes.
 
 **Vasudev Sivakumar**
 Software Development Intern — Prodigy Infotech
-GitHub: [@vasudevsivakum](https://github.com/vasudevsivakum)
+GitHub: [@vasudevs07](https://github.com/vasudevs07)
 LinkedIn: [linkedin.com/in/vasudevsivakumar](https://linkedin.com/in/vasudevsivakumar)
